@@ -10,6 +10,8 @@ complex problems where software, hardware, and networking come together.
   failure analysis, and test automation.
 - 💻 **Software development:** Backend applications, APIs, e-commerce
   integrations, and data-driven workflows.
+- 🌐 **Networking:** Network configuration and troubleshooting, DHCP,
+  routing, and switching.
 - ☁️ **Infrastructure:** Linux, Docker, AWS, Cloudflare, and self-hosted services.
 - 🤖 **AI-assisted development:** Prompt engineering, clear specifications,
   and human-in-the-loop review.
@@ -17,6 +19,7 @@ complex problems where software, hardware, and networking come together.
 
 **Core technologies:** Python · Django · PostgreSQL · Redis · SQL · Git  
 **Additional experience:** JavaScript · PHP · Laravel · MySQL · Elastic  
-**Systems & tools:** Ubuntu · CentOS · WSL · Raspberry Pi · VS Code · Cursor · Codex
+**Systems & tools:** Ubuntu · CentOS · WSL · Raspberry Pi · VS Code · Cursor · Codex  
+**Web analytics & SEO:** Google Analytics · Google Search Console
 
 📍 Utah, USA · 🌎 English & Spanish · [LinkedIn](https://www.linkedin.com/in/rogecarrera/)
