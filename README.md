@@ -9,9 +9,6 @@
   using languages and technologies such as Python, JavaScript, PHP, SQL, and asynchronous methods. Experience working with dynamic and high-performance teams. 
   Focused on continuous improvement and innovation.
 
-  I am looking for personal and professional growth by helping other people, linking to the best products, best development practices, business logic, 
-  and world-class investments, through algorithms. 💪
-
 ENFJ-A personality.
 
 ### Connect with me:
